@@ -1,0 +1,81 @@
+/* @use 'css/buttons.css'; позволяет подключить много css файлов через один css файл к html странице */
+/* селектор {
+    свойство: значение;
+    свойство: значение;
+    свойство: значение;
+} */
+* {
+    box-sizing: border-box;
+}
+h2 {
+    color: red;
+    font-size:30px;
+    text-align: center;
+    /* tac: быстрый способ прописать вышеуказанную строку */
+    font-weight: 900;
+    font-style: italic;
+    /* text-decoration: underline; */
+    /* text-decoration: line-through; */
+    font-size: 30px;
+}
+/* div a {} */ /*изменеие стилей елемента "а" в селекторе div */
+
+/* .chapter {
+    color:#4B0082;              /* изменения цвета с помощью hex кода
+} */                    
+
+/* .chapter {
+    color:rgb(256, 256, 256)       /* изменения цвета с помощью RGB(Red, Green, Blue)
+} */
+
+.chapter {
+    color:rgba(255, 20, 147, 1);  /* rgba(red, green, blue, alpha-index(прозрачность, 0.0-1.0)) */
+}
+
+#begin {
+    color:orange;
+    font-weight: bold;
+}
+.text {
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.box{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    /* padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px; */
+    /* padding: 20px 20px 20px 20px; */
+    padding: 20px;   /* внутренные отступы */
+    /* border-width: 3px;
+    border-style: solid;
+    border-color:black; */
+    /* border: 3px solid black; */
+    border: 3px dashed black;
+    margin: 20px;
+}
+h1, h2, h3 {
+    text-align: center;
+}
+.pink {
+    color:pink;
+}
+
+a {
+    padding: 20px;
+    margin: 20px;
+    width: 500px;
+}
+
+img {
+    display: block;
+    margin: 0 auto; /* размещение по центру по горизонтали. 0 вертикал, авто горизонтал. Вертикально так не получиться. */
+    width: 500px;
+}
+/* Блочные — dispalay:block;*/
+/* Строчные */
+/* Строчно-блочные элементы */
