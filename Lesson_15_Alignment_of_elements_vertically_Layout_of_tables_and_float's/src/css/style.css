@@ -42,7 +42,7 @@ h2 {
 }
 .box{
     display: inline-block;
-     vertical-align: middle; /* работает только при inline-block */
+    vertical-align: top;
     width: 300px;
     height: 300px;
     background-color: green;
@@ -56,7 +56,7 @@ h2 {
     border-style: solid;
     border-color:black; */
     /* border: 3px solid black; */
-    border: 3px dashed black;
+    border: 3px solid black;
     margin: 20px;
 }
 h1, h2, h3 {
@@ -76,7 +76,6 @@ img {
     display: block;
     margin: 0 auto; /* размещение по центру по горизонтали. 0 вертикал, авто горизонтал. Вертикально так не получиться. */
     width: 500px;
-    /* float: right; */
 }
 /* Блочные — dispalay:block;*/
 /* Строчные */
@@ -84,20 +83,19 @@ img {
 
 nav {
     /* position: static, absolute, fixed, inherit
-     static, relative 
     position: relative;
     right: 30px;
     bottom: 150px; 
      top, right, bottom, left  */
-     position:inherit;
+     position: inherit;
      right: 0px;
      top: 50px;
 }
 
 .red {
     background-color: red;
-    height: 100px;
 }
+
 .example {
-    position:relative;
+    position: relative;
 }
