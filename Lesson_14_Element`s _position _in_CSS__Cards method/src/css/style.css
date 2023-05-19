@@ -57,7 +57,7 @@ h2 {
     /* border: 3px solid black; */
     border: 3px dashed black;
     margin: 20px;
-    z-index:  6;
+    z-index:  3;
 }
 h1, h2, h3 {
     text-align: center;
@@ -83,22 +83,22 @@ img {
 
 nav {
     /* position: static, absolute, fixed, inherit
-     static, relative 
     position: relative;
     right: 30px;
     bottom: 150px; 
      top, right, bottom, left  */
-     position:inherit;
+     position: inherit;
      right: 0px;
      top: 50px;
 }
 
 .red {
-    position:absolute;
+    position: absolute;
     left: 80px;
     background-color: red;
-    z-index: -2;
+    z-index: -1;
 }
+
 .example {
-    position:relative;
+    position: relative;
 }
