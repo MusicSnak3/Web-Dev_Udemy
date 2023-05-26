@@ -1,0 +1,5 @@
+▓  https://developer.mozilla.org/ru/docs/Web/CSS/font-family  —  font-family
+▓  https://fonts.google.com — google fonts
+▓  https://webfonts.pro — Найти и скачать любые шрифты
+▓  https://transfonter.org  — Сервис для конвертации шрифтов
+▓  https://webformyself.com/ponyatie-formatov-shriftov-i-kak-vyzhat-iz-nix-maksimum-dlya-veb/ — Про форматы шрифтов

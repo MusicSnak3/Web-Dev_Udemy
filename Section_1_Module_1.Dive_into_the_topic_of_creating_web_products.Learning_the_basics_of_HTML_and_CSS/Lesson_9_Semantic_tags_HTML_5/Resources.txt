@@ -1,0 +1,3 @@
+▓  http://htmlbook.ru/html5 — Про HTML5 
+▓  https://html5book.ru/html-html5/ — Еще немного про HTML5
+▓  https://msiter.ru/tutorials/html5/semantic_elements — Семантические теги

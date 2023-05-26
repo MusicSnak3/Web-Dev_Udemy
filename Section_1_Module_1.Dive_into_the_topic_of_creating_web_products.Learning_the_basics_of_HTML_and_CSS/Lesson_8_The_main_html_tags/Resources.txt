@@ -1,0 +1,5 @@
+▓  http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/the_little_prince.htm  — Book for homework 
+▓  https://webref.ru/html  —  справочник по HTML 
+▓  https://htmlreference.io  — Еще один справочник 
+▓  https://webref.ru/html/attr/common  —  универсальные атрибуты
+▓  https://docs.emmet.io/cheat-sheet/  —  сокращенные команды Emmet

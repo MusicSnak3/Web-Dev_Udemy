@@ -1,0 +1,5 @@
+▓  https://necolas.github.io/normalize.css/ —  Mormalize.css
+▓  https://habr.com/ru/articles/45296/ — Сброс стилей с помощью CSS Reset
+▓  https://htmlacademy.ru/blog/html/about-normalize-css — Статья о Normalize.CSS
+▓  https://cdnjs.com/libraries/normalize  — Ресурс для подключения сторонних файлов (cdn)
+▓  https://github.com/yankovalenko94/Webdev2019 — Репозиторий с домашними заданиями
