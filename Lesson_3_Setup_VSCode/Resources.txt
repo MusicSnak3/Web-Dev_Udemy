@@ -1,4 +1,0 @@
-▓ https://code.visualstudio.com  — VSCode
-▓ https://nodejs.org/en/ — NodeJS
-▓ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf  — Hotkeys of VSCode
-▓ https://docs.emmet.io/cheat-sheet/ — Сокращенные команды Emmet

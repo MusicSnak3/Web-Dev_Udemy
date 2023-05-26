@@ -1,9 +1,0 @@
-▓  https://www.rapidtables.com/web/css/css-color.html — CSS цвета
-▓  https://webref.ru/html/attr/style  — Атрибут style 
-▓  https://webref.ru/css  — Справочник CSS 
-▓  https://cssreference.io  —  Еще один справочник CSS 
-▓  https://sitehere.ru/tablica-stilej-css-v-udobnom-vide — Много всего про CSS 
-▓  https://colorscheme.ru/color-converter.html  — Конвертер цвета 
-▓  https://www.ozon.ru/context/detail/id/135656602/  — Книга про CSS 
-▓  https://www.ozon.ru/context/detail/id/135731189/  — Новая большая книга по CSS 
-▓  https://learn.javascript.ru/css-selectors  —  CSS селекторы

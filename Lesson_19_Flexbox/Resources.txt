@@ -1,5 +1,0 @@
-▓  https://caniuse.com  —  Могу я использовать ли...
-▓  https://habr.com/ru/post/313938/ — шпаргалка по flex
-▓  https://habr.com/ru/post/259783/ — flexbox на примере игрового кубика
-▓  https://flexboxfroggy.com/#ru  — игра для освоения flexbox 
-▓  https://web.archive.org/web/20210718095533/https://html5.by/blog/flexbox/ — что такое flexbox
