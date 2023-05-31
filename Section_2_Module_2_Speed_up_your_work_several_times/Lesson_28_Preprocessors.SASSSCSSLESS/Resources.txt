@@ -1,5 +1,0 @@
-▓  https://github.com/yankovalenko94/Webdev2019/tree/master/Uber_step_1  - Проверить предыдущее домашнее задание
-▓  https://sass-lang.com  - Документация SASS на английском
-▓  https://scout-app.io  - Компилятор Koala
-▓  https://github.com/ritwickdey/vscode-live-sass-compiler/blob/master/docs/settings.md -  Настройки плагина для VSCode SASS compiler
-▓  https://habr.com/ru/articles/136525/ - LESS програмируемый язык стилей
