@@ -1,0 +1,3 @@
+▓  https://webref.ru/css#pseudo-class  — Documentation
+▓  https://html5book.ru/psevdoklassy/  — Another documentation
+▓  https://webref.ru/css/transition — Transition
