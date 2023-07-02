@@ -1,0 +1,2 @@
+▓ https://pr-cy.ru/favicon/ - Сайт для создания favicon(иконка сайта )
+▓ http://htmlbook.ru/faq/kak-dobavit-ikonku-sayta-v-adresnuyu-stroku-brauzera - Как подключать favicon
